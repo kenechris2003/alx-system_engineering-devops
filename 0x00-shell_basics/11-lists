@@ -1,1 +1,2 @@
-#!/bin/bash ls -las
+#!/bin/bash
+ls -las
