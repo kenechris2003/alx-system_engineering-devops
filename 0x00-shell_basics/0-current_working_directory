@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "pwd -L"
+printf "pwd -p"
