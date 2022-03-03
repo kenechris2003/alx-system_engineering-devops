@@ -1,2 +1,0 @@
-#!/bin/bash
-perl script1.pl -o hello
